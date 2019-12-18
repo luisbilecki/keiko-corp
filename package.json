@@ -1,0 +1,18 @@
+{
+  "name": "keiko-corp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/luisbilecki/keiko-corp.git",
+  "license": "MIT",
+  "scripts": {
+    "grunt": "grunt"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-cli": "^1.3.2",
+    "grunt-concat-css": "^0.3.2",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-uglify": "^4.0.1"
+  }
+}
